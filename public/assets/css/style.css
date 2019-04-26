@@ -1,0 +1,12 @@
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+}
+
+canvas {
+  border: 1px solid #88CC66;
+  border-radius: 3px;
+  margin: 20px auto;
+  display: block;
+  max-width: 100%;
+}
